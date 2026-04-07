@@ -1,8 +1,8 @@
 # ArVim
 
-A vim-like terminal text editor written in C++. 
+A minimal vim-like text editor.
 
-## Functionality
+## Features
 
 ArVim has a modal interface for text-editing: `i` goes into insert mode and `ESC` goes back to 
 normal mode. Supports some vim normal-mode navigation including navigation with `h/j/k/l` or arrow 
