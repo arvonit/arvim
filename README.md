@@ -1,10 +1,10 @@
-# ArVim
+# Arvim
 
 A minimal vim-like text editor.
 
 ## Features
 
-ArVim has a modal interface for text-editing: `i` goes into insert mode and `ESC` goes back to 
+Arvim has a modal interface for text-editing: `i` goes into insert mode and `ESC` goes back to 
 normal mode. Supports some vim normal-mode navigation including navigation with `h/j/k/l` or arrow 
 keys, `w/b` for going between words, `0/$` for beginning/end of line, and `gg/G` for top/bottom 
 of file. Copying and pasting a line is supported with normal vim keybinds as well as undo/redo. 
